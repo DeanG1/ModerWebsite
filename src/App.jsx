@@ -1,3 +1,4 @@
+import Benefits from "./Components/Benefits";
 import Button from "./Components/Button";
 import Header from "./Components/Header";
 import Hero from "./Components/Hero";
@@ -10,6 +11,7 @@ const App = () => {
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
         <Header />
         <Hero />
+        <Benefits />
       </div>
       <ButtonGradient />
     </>
