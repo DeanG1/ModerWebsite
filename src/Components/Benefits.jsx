@@ -10,7 +10,7 @@ const Benefits = () => {
     <Section id="features">
       <div className="container relative z-2">
         <Heading
-          className="md:max-w-md text-center lg:max-w-2xl"
+          className="md:max-w-md xl:font-semibold text-center lg:max-w-2xl"
           title="Chat smarter not harder with Brainwave"
         />
         <div className="flex flex-wrap gap-10 mb-10">
